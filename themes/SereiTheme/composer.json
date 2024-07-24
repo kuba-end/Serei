@@ -1,0 +1,14 @@
+{
+    "name": "serei/serei-theme",
+    "authors": [
+        {
+            "name": "Kuba Rudziński",
+            "email": "admin@serei.pl"
+        }
+    ],
+    "extra": {
+        "sylius-theme": {
+            "title": "Serei Theme"
+        }
+    }
+}
