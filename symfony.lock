@@ -870,6 +870,9 @@
     "symplify/easy-coding-standard": {
         "version": "v4.6.1"
     },
+    "synolia/sylius-maintenance-plugin": {
+        "version": "v1.5.0"
+    },
     "textalk/websocket": {
         "version": "1.3.1"
     },

@@ -61,4 +61,5 @@ return [
     League\FlysystemBundle\FlysystemBundle::class => ['all' => true],
     Symfony\WebpackEncoreBundle\WebpackEncoreBundle::class => ['all' => true],
     Sylius\PayPalPlugin\SyliusPayPalPlugin::class => ['all' => true],
+    Synolia\SyliusMaintenancePlugin\SynoliaSyliusMaintenancePlugin::class => ['all' => true],
 ];

@@ -29,7 +29,7 @@ Encore.reset();
 Encore
   .setOutputPath('public/build/admin/')
   .setPublicPath('/build/admin')
-  .addEntry('admin-entry', './vendor/sylius/sylius/src/Sylius/Bundle/AdminBundle/Resources/private/entry.js')
+  .addEntry('admin-entry', './themes/SereiTheme/templates/bundles/SyliusAdminBundle/assets/entry.js')
   .disableSingleRuntimeChunk()
   .cleanupOutputBeforeBuild()
   .enableSourceMaps(!Encore.isProduction())
